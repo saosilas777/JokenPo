@@ -1,0 +1,9 @@
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\obj\Debug\JokenPo.Form1.resources
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+C:\Users\saosi\Documents\Curso 2022 C#\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
